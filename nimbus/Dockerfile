@@ -1,6 +1,6 @@
 FROM mattf/storm-base
 
-MAINTAINER Matthew Farrellee <matt@cs.wisc.edu>
+MAINTAINER Bruno Panuto <bl.panuto@gmail.com>
 
 ADD start.sh /
 
