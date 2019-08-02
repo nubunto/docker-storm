@@ -1,4 +1,4 @@
-FROM mattf/storm-base
+FROM nubunto/storm-base
 
 MAINTAINER Bruno Panuto <bl.panuto@gmail.com>
 
