@@ -1,4 +1,4 @@
-FROM nubunto/storm-base
+FROM storm:2.0.0
 
 MAINTAINER Bruno Panuto <bl.panuto@gmail.com>
 
